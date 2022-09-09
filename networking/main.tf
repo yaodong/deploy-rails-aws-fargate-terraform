@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "later"
+    organization = "__NAME__"
 
     workspaces {
       prefix = "networking-"

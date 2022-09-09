@@ -1,7 +1,6 @@
 variable "product" {
   description = "Product name"
   type        = string
-  default     = "later"
 }
 
 variable "env" {
